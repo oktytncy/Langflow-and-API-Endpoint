@@ -577,3 +577,13 @@ if __name__ == "__main__":
         else:
             st.write("Please enter a message.")
     ```
+
+5. Now let's run one more test to make sure everything's exactly how we want it.
+
+    ```python
+    streamlit run app.py
+    ```
+
+
+
+
