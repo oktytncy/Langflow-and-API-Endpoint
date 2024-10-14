@@ -1,5 +1,14 @@
 # Langflow and API Endpoint
 
+- [Langflow and API Endpoint](#langflow-and-api-endpoint)
+   * [Prerequisites](#prerequisites)
+      + [Sign up for Astra DB](#sign-up-for-astra-db)
+      + [Sign up for OpenAI](#sign-up-for-openai)
+   * [Build with Langflow](#build-with-langflow)
+   * [Creting an API Endpoint](#creting-an-api-endpoint)
+      + [Summary](#summary)
+   * [Streamlit implementation](#streamlit-implementation)
+
 ## Prerequisites
 This application assumes you have access to:
 1. [DataStax Astra DB](https://astra.datastax.com) (you can sign up through your Github account)
@@ -583,7 +592,3 @@ if __name__ == "__main__":
     ```python
     streamlit run app.py
     ```
-
-
-
-
